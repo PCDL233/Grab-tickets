@@ -71,6 +71,5 @@ cookie = longin_obj.login()
     }
 ]
 """
-
 print(GrabbingFind(cookie).get_ticket())
 
